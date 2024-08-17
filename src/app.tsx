@@ -17,7 +17,7 @@ export function App() {
         </a>
       </div>
       <h1>Vite + Preact</h1>
-      <h2>Test 2</h2>
+      <h2>Test 3</h2>
       <div class="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
