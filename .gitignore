@@ -22,3 +22,19 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+*.code-workspace
+
+# bun
+*bun.lockb
+bun.lockb
+
+# pnpm
+pnpm-lock.yaml
+
+# lugerh
+mongodb/
+*.hide/
+*.txt
+.prettierrc
+.env
+vite-env.d.ts
